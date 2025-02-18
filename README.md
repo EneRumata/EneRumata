@@ -3,7 +3,9 @@
   <meta charset="utf-8" />
 </head>
 <body>
-  <p>rerere</p>
+  <h1>Konstantin Khamadov</h1>
+  <h3>Junior Developer</h3>
+  <p>Greetings! I am Konstantin Khamadov, a novice programmer. I have completed my bachelor's degree in computer science, and am now actively looking for a job.</p>
 </body>
 </html>
 
