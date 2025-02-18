@@ -1,10 +1,9 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title><p style="width:20px;height:20px;background-color:#ffcc00;">The contents go here</p></title>
 </head>
 <body>
+  <p>rerere</p>
 </body>
 </html>
 
