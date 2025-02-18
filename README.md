@@ -19,5 +19,11 @@
   <p><span>Fundamentals of computing</span></p>
   <p><span>Fundamentals of project management</span></p>
   <p><span>MatLab</span></p>
+  <h3>Languages</h3>
+  <p><span>Russian - Native</span></p>
+  <p><span>English - B2</span></p>
+  <h3>How to reach me</h3>
+  <p><span>email: kostyahamadyan@gmail.com</span></p>
+  <p><span>telegram: t.me/kostyahamadyan</span></p>
 </body>
 </html>
