@@ -15,9 +15,9 @@
   <p><span>CyberSecurity</span></p>
   <p><span>Neural Networks</span></p>
   <h3>Other skills</h3>
-  <p><span>simulation modeling</span></p>
-  <p><span>fundamentals of computing</span></p>
-  <p><span>fundamentals of project management</span></p>
-  <p><span>matlab</span></p>
+  <p><span>Simulation modeling</span></p>
+  <p><span>Fundamentals of computing</span></p>
+  <p><span>Fundamentals of project management</span></p>
+  <p><span>MatLab</span></p>
 </body>
 </html>
