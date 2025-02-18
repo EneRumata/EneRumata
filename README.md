@@ -1,18 +1,6 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <style>
-    body { 
-     font-family: Arial, sans-serif; /* Рубленый шрифт */ 
-    }
-    .letter { 
-     color: red; /* Красный цвет символов */ 
-     font-size: 200%; /* Размер шрифта в процентах */ 
-     font-family: serif; /* Шрифт с засечками */ 
-     position: relative; /* Относительное позиционирование */ 
-     top: 5px; /* Сдвиг сверху */ 
-    }
-  </style> 
 </head>
 <body>
   <h1>Konstantin Khamadov</h1>
