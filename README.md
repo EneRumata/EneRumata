@@ -12,6 +12,7 @@
      position: relative; /* Относительное позиционирование */ 
      top: 5px; /* Сдвиг сверху */ 
     }
+  </style> 
 </head>
 <body>
   <h1>Konstantin Khamadov</h1>
