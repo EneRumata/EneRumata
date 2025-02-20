@@ -6,7 +6,7 @@ Greetings! I am Konstantin Khamadov, a junior developer. I have completed my bac
 
 ## Hard skills
 
-### **Programming Languages**: ![Python](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![VBA](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### **Programming Languages**: ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge) ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge) ![VBA](https://img.shields.io/badge/VBA-green?style=for-the-badge)
 
 ### **Web-technologies**: ![html-css](https://img.shields.io/badge/html-css-blue?style=for-the-badge) ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge) ![php](https://img.shields.io/badge/php-purple?style=for-the-badge)
 
