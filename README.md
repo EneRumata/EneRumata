@@ -25,19 +25,27 @@ Institute of High Technologies and Piezo Engineering
 
 ### **Cyber Security**
 
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7777FF?style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-grey?style=for-the-badge) ![Microsoft access](https://img.shields.io/badge/Microsoft_access-DC143C?style=for-the-badge)
+
 ### **Neural Networks**
+![Python torch](https://img.shields.io/badge/Python-torch-yellow?style=for-the-badge)
 
 ### **Git**
+![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge)
 
 ## 🔨 Other skills
 
 ### **Simulation modeling**
+![AnyLogic](https://img.shields.io/badge/AnyLogic-7777FF?style=for-the-badge) ![Arena](https://img.shields.io/badge/Arena-grey?style=for-the-badge)
 
 ### **Fundamentals of computing**
 
 ### **Project management**
+![Microsoft project](https://img.shields.io/badge/Microsoft_project-green?style=for-the-badge)
 
 ### **MatLab**
+![MatLab](https://img.shields.io/badge/MatLab-orange?style=for-the-badge) ![Simulink](https://img.shields.io/badge/Simulink-blue?style=for-the-badge)
 
 ## 💬 Languages
 
